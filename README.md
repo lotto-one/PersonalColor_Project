@@ -1,5 +1,5 @@
 # PersonalColor_Project
 
 
-![image][Uploading image.png…]()
 
+![Uploading 스크린샷 2024-08-02 132519.png…]()
