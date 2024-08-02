@@ -1,3 +1,4 @@
 # PersonalColor_Project
 
-![Uploading image.png…]()
+
+![image][Uploading image.png…]
